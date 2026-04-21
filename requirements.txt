@@ -8,3 +8,6 @@ pandas
 requests
 json5
 gunicorn
+fake-useragent
+flask
+colorama
